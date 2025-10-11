@@ -102,3 +102,8 @@
 - YC: ycombinator.com
 - Hackathons: ethglobal.com
 - Vitalik: vitalik.eth.limo
+
+
+# Words for Young
+## Stay Curious, Never Stop Playing
+## Connect with the world, not just what's in front of you
