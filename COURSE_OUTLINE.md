@@ -1,6 +1,7 @@
 # How to Launch a Web3 Startup
 **1-Hour Course for CMU Undergraduates | Jason Jiao**
-
+https://app.napkin.ai/page/CgoiCHByb2Qtb25lEiwKBFBhZ2UaJDIwZjQzMDhmLTA3OTUtNGQyMi1hYjZlLWM5YzE1NTY0ZGQ1Yg?s=1
+https://github.com/jhfnetboy/How-to-launch-a-web3-startup
 ---
 
 ## Part 1: Understanding Web3 (10 min)
@@ -12,7 +13,7 @@
 
 ### What's a Startup?
 
-**Old way**: Idea → Team → VC → Years → IPO  
+**Old way**: Idea → Team → VC → Years → IPO
 **New way**: Build fast → Launch → Users → Token → Scale
 
 ---
@@ -35,7 +36,7 @@
 
 ### Examples
 - **DeFi**: Uniswap
-- **NFT**: OpenSea  
+- **NFT**: OpenSea
 - **Meme**: Pump.fun
 - **Infra**: Soul Wallet
 
@@ -69,16 +70,16 @@
 
 ### My Journey: 0 to $2.3M in 11 Months
 
-**March 2022**: Quit job  
-**April**: First hackathon → Prize  
-**June**: Vitalik tweets ERC-4337  
-**October**: Soul Wallet launched  
-**November**: ETH Bogota → $50K  
+**March 2022**: Quit job
+**April**: First hackathon → Prize
+**June**: Vitalik tweets ERC-4337
+**October**: Soul Wallet launched
+**November**: ETH Bogota → $50K
 **February 2023**: $2.3M raised
 
 **Lessons**:
 - Timing > Perfect product
-- Community opens doors  
+- Community opens doors
 - Ship fast, iterate faster
 - Follow the signals (Vitalik's tweets!)
 
