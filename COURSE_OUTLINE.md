@@ -1,7 +1,8 @@
 # How to Launch a Web3 Startup
 **1-Hour Course for CMU Undergraduates | Jason Jiao**
-https://app.napkin.ai/page/CgoiCHByb2Qtb25lEiwKBFBhZ2UaJDIwZjQzMDhmLTA3OTUtNGQyMi1hYjZlLWM5YzE1NTY0ZGQ1Yg?s=1
-https://github.com/jhfnetboy/How-to-launch-a-web3-startup
+- [Napkin Slides](https://app.napkin.ai/page/CgoiCHByb2Qtb25lEiwKBFBhZ2UaJDIwZjQzMDhmLTA3OTUtNGQyMi1hYjZlLWM5YzE1NTY0ZGQ1Yg?s=1)
+
+- [GitHub Repository](https://github.com/jhfnetboy/How-to-launch-a-web3-startup)
 ---
 
 ## Part 1: Understanding Web3 (10 min)
