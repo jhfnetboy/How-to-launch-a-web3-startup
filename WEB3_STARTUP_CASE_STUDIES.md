@@ -2,8 +2,8 @@
 
 ## Case 1: HyperLiquid - The Anti-VC Success Story
 
-**Founder**: Jeff Yan  
-**Background**: Gold medalist at International Physics Olympiad (2013), Harvard graduate, quantitative trader at Hudson River Trading  
+**Founder**: Jeff Yan
+**Background**: Gold medalist at International Physics Olympiad (2013), Harvard graduate, quantitative trader at Hudson River Trading
 **Founded**: Post-FTX collapse (2022)
 
 ### The Problem They Anchored
@@ -39,6 +39,17 @@ Jeff Yan pivoted from a successful quantitative trading career to building Hyper
 - Technical perfectionism
 - Bootstrap sustainability
 
+```mermaid
+timeline
+    title HyperLiquid's Journey
+    2022 : Founded post-FTX collapse
+         : Self-funded (Bootstrap)
+         : Rejected VCs
+    2023 : Built custom L1 blockchain
+    2024 : Achieved over $10 billion daily trading volume
+         : Nov 2024 - Launched HYPE token
+```
+
 **Sources**:
 - https://www.panewslab.com/en/articles/24vs7xe6
 - https://www.blocmates.com/news-posts/founder-jeff-yan-explains-why-hyperliquid-said-no-to-vcs-and-still-won-big
@@ -48,8 +59,8 @@ Jeff Yan pivoted from a successful quantitative trading career to building Hyper
 
 ## Case 2: Animoca Brands - The Web3 Berkshire Hathaway
 
-**Founder**: Yat Siu  
-**Background**: Started at Atari Germany (1990), founded Hong Kong Cybercity (first free web/email provider in Asia), founded Outblaze (sold unit to IBM)  
+**Founder**: Yat Siu
+**Background**: Started at Atari Germany (1990), founded Hong Kong Cybercity (first free web/email provider in Asia), founded Outblaze (sold unit to IBM)
 **Founded**: Initially as mobile gaming company, pivoted to Web3 in 2017
 
 ### The Problem They Anchored
@@ -90,6 +101,17 @@ Traditional gaming companies own all user assets. Players spend money but never 
 - Government partnerships
 - Long-term digital property rights thesis
 
+```mermaid
+timeline
+    title Animoca Brands' Journey
+    1990s : Yat Siu starts at Atari Germany
+          : Founds Hong Kong Cybercity & Outblaze
+    2017 : Pivots from mobile games to Web3/NFT gaming
+    2018 : Becomes a strong advocate for blockchain in gaming
+    2023 : Secures position on Hong Kong government Web3 task force
+    2024 : Advisory unit revenue overtakes traditional Web3 business
+```
+
 **Sources**:
 - https://www.coindesk.com/web3/2025/03/05/animoca-brands-advisory-overtook-web3-businesses-in-2024-as-the-yat-siu-led-firm-pivots
 - https://www.thestreet.com/crypto/markets/berkshire-of-web3-animoca-brands-founder-on-the-future-of-crypto-and-ipo-plans
@@ -99,8 +121,8 @@ Traditional gaming companies own all user assets. Players spend money but never 
 
 ## Case 3: ZeroDev - The Account Abstraction Pioneer
 
-**Founder**: Derek Chiang  
-**Background**: Started in Nethermind Internship Program learning EIP-4337  
+**Founder**: Derek Chiang
+**Background**: Started in Nethermind Internship Program learning EIP-4337
 **Founded**: 2022, based in New York
 
 ### The Problem They Anchored
@@ -139,6 +161,16 @@ Focused exclusively on ERC-4337 account abstraction after Vitalik promoted it in
 - YC validation
 - Strategic acquisition exit
 
+```mermaid
+timeline
+    title ZeroDev's Journey
+    2022 : Founded by Derek Chiang
+    Oct 2023 : Seed Round from Y Combinator ($500K)
+             : Total funding reaches $1M
+    2024 : Manages over 5 million smart accounts
+    Aug 2025 : Acquired by Offchain Labs (Arbitrum)
+```
+
 **Sources**:
 - https://www.ycombinator.com/companies/zerodev
 - https://www.prnewswire.com/news-releases/offchain-labs-makes-strategic-acquisition-of-zerodev-to-advance-efficient-development-and-use-of-onchain-consumer-applications-302528571.html
@@ -148,8 +180,8 @@ Focused exclusively on ERC-4337 account abstraction after Vitalik promoted it in
 
 ## Case 4: Pimlico - ERC-4337 Co-Author's Journey
 
-**Founder**: Kristof Gazso (Co-author of ERC-4337 with Vitalik Buterin)  
-**Background**: Nethermind Internship Program, worked with Lukasz Rozmej on EIP-4337  
+**Founder**: Kristof Gazso (Co-author of ERC-4337 with Vitalik Buterin)
+**Background**: Nethermind Internship Program, worked with Lukasz Rozmej on EIP-4337
 **Founded**: 2023
 
 ### The Problem They Anchored
@@ -187,6 +219,16 @@ From being ERC-4337 co-author to building the infrastructure company that powers
 - Strategic accelerator participation
 - Partnership-first GTM strategy
 
+```mermaid
+timeline
+    title Pimlico's Journey
+    2023 : Founded by Kristof Gazso (ERC-4337 Co-author)
+         : Sep 2023 - Pre-Seed round ($1.6M)
+         : Nov 2023 - Seed round ($4.2M) led by a16z
+         : Completed a16z Crypto Startup School
+    2024 : Partnership with Safe to launch ERC-4337 module
+```
+
 **Sources**:
 - https://blog.pimlico.io/posts/seed
 - https://blog.pimlico.io/posts/pre-seed
@@ -197,8 +239,8 @@ From being ERC-4337 co-author to building the infrastructure company that powers
 
 ## Case 5: Polymarket - Bathroom to Billionaire
 
-**Founder**: Shayne Coplan (born 1998)  
-**Background**: NYU dropout, bought Ethereum at $0.30 in 2014 ICO, built crypto staking platform (Union)  
+**Founder**: Shayne Coplan (born 1998)
+**Background**: NYU dropout, bought Ethereum at $0.30 in 2014 ICO, built crypto staking platform (Union)
 **Founded**: June 2020 during COVID
 
 ### The Problem They Anchored
@@ -263,6 +305,21 @@ Information discovery is broken. People need better ways to understand what will
 - Age 21: Solo founder, broke, bathroom office
 - Age 26: Youngest self-made billionaire
 
+```mermaid
+timeline
+    title Polymarket's Journey
+    2014 : Shayne Coplan buys Ethereum at $0.30
+    2019 : Works on a crypto staking platform (Union)
+    June 2020 : Pivots and founds Polymarket from his bathroom
+    2020 : Raises $4M Seed round
+    2022 : Pays $1.4M fine to the CFTC
+    May 2024 : Raises $45M Series B from Peter Thiel's Founders Fund and Vitalik Buterin
+    July 2024 : Hits all-time high monthly trading volume of $387M
+    Sep 2024 : Raises an additional $50M
+    Nov 2024 : Founder's apartment is raided by the FBI
+    Oct 2025 : Receives $2B investment from NYSE's parent company at an $8B valuation
+```
+
 **Sources**:
 - https://fortune.com/2024/11/08/polymarket-ceo-shayne-coplan-founded-company-from-bathroom/
 - https://www.coindesk.com/business/2024/05/14/peter-thiels-founders-fund-vitalik-buterin-back-45m-investment-in-polymarket
@@ -273,8 +330,8 @@ Information discovery is broken. People need better ways to understand what will
 
 ## Case 6: Blast - The Controversial Speedrun
 
-**Founder**: Pacman (Tieshun Roquerre)  
-**Background**: Dropped out at age 16, founded StrongIntro at 17 (YC-backed, raised $120K), MIT dropout, co-founded Blur (2022)  
+**Founder**: Pacman (Tieshun Roquerre)
+**Background**: Dropped out at age 16, founded StrongIntro at 17 (YC-backed, raised $120K), MIT dropout, co-founded Blur (2022)
 **Founded**: 2023
 
 ### The Problem They Anchored
@@ -316,6 +373,16 @@ After Blur (NFT marketplace) unseated OpenSea as #1 by volume, Pacman pivoted to
 - Strong backing despite controversy (Paradigm)
 - Blur's success as launchpad
 
+```mermaid
+timeline
+    title Blast's Journey
+    Age 17 : Pacman founds YC-backed StrongIntro
+    2022 : Co-founds Blur NFT marketplace
+    2023 : Founds Blast L2
+         : Raises $20M pre-launch from Paradigm
+         : Attracts $2B+ in user deposits before mainnet launch
+```
+
 **Sources**:
 - https://www.binance.com/en/square/post/10060587946562
 - https://www.theblock.co/post/264668/pacman-chews-over-blast-ponzi-scheme-criticisms-humorous-memes
@@ -325,8 +392,8 @@ After Blur (NFT marketplace) unseated OpenSea as #1 by volume, Pacman pivoted to
 
 ## Case 7: Friend.tech - The Viral SocialFi Experiment
 
-**Founders**: Racer (@0xRacerAlt) and Shrimp (@shrimppepe) - pseudonymous  
-**Background**: Racer led The TweetDAO (viral April 2022), both created Stealcam (March 2023)  
+**Founders**: Racer (@0xRacerAlt) and Shrimp (@shrimppepe) - pseudonymous
+**Background**: Racer led The TweetDAO (viral April 2022), both created Stealcam (March 2023)
 **Founded**: August 2023 (rebranded from Stealcam)
 
 ### The Problem They Anchored
@@ -374,6 +441,16 @@ Social media platforms extract all value from creators and their relationships. 
 - MVP → Funding → Scale model
 - Mobile-first approach
 - High-risk social experimentation
+
+```mermaid
+timeline
+    title Friend.tech's Journey
+    April 2022 : Founder "Racer" leads The TweetDAO
+    March 2023 : Founders launch Stealcam
+    August 2023 : Rebrand to Friend.tech and secure Paradigm funding
+                : Launch invite-only beta and go viral
+    May 2024 : "Racer" hints at leaving the Base chain, causing token to drop
+```
 
 **Lessons**:
 - Viral launch ≠ sustainable business
