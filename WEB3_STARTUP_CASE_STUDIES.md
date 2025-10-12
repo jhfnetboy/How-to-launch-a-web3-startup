@@ -3,7 +3,7 @@
 ## Case 1: HyperLiquid - The Anti-VC Success Story
 
 **Founder**: Jeff Yan
-**Background**: Gold medalist at International Physics Olympiad (2013), Harvard graduate, quantitative trader at Hudson River Trading
+**Background**: Gold medalist at International **Physics** Olympiad (2013), Harvard graduate, quantitative trader at Hudson River Trading
 **Founded**: Post-FTX collapse (2022)
 
 ### The Problem They Anchored
