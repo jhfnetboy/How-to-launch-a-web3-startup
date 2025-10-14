@@ -78,3 +78,14 @@ Based on your experience and knowledge, you can join hackathons to learn more ab
 # Words for Young
 ## Stay Curious, Never Stop Playing
 ## Connect with the world, not just what's in front of you
+
+
+## Version 2
+After class I got some feedback from Ajarn Kin: give a real practice route for students to follow.
+So, I will give 10 minutes to tell the suggestion steps and how-to.
+
+### Suggestion Steps
+TODO
+
+### How to
+TODO
