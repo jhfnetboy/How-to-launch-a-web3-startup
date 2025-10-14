@@ -1,4 +1,5 @@
 # Web3 Startup Case Studies: Success Stories & Lessons
+https://github.com/jhfnetboy/How-to-launch-a-web3-startup/blob/main/README.md
 
 ## Case 1: HyperLiquid - The Anti-VC Success Story
 
